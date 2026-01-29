@@ -6,7 +6,7 @@
 			"conditions": {
 				"items": [
 					{
-						"items": "minecraft:sculksickness:vile_herb"
+						"items": "sculksickness:vile_herb"
 					}
 				]
 			}

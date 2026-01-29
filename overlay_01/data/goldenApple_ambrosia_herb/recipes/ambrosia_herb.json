@@ -3,7 +3,8 @@
   "show_notification": false,
   "pattern": [
     "ggG",
-    "VV"
+    "VV ",
+    "   "
   ],
   "key": {
     "g": {

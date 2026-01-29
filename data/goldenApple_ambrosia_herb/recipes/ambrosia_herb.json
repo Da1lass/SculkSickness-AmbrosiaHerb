@@ -1,22 +1,17 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "show_notification": false,
-  "pattern": [
-    "ggG",
-    "VV ",
-    "   "
-  ],
-  "key": {
-    "g": {
+  "type": "minecraft:crafting_shapeless",
+  "catagory": "misc",
+  "ingredients": [
+    {
       "item": "minecraft:glow_berries"
     },
-    "G": {
+    {
       "item": "minecraft:golden_apple"
     },
-    "V": {
+    {
       "item": "sculksickness:vile_herb"
     }
-  },
+  ],
   "result": {
     "item": "sculksickness:ambrosia_herb",
     "count": 2
